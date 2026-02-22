@@ -353,6 +353,21 @@ The important product point: students do not just "search text" - they retrieve 
 
 ---
 
+## Live Data Visualization
+
+A fresh dashboard generated from local DuckDB + live API endpoints is available at:
+
+- `visualizations/knowledge-graph-dashboard.md`
+
+It includes:
+
+- table volume chart,
+- relationship type distribution pie chart,
+- confidence profile chart,
+- live system health and relationship totals.
+
+---
+
 ## Responsible AI Positioning
 
 ### Strong claims you can make confidently
