@@ -1,0 +1,4370 @@
+{
+  "items": [
+    {
+      "entity_id": "assignment:1081985",
+      "entity_name": "Quiz1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081985",
+        "name": "Quiz1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081985,
+        "due_date": null,
+        "points_possible": 40.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081985",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081987",
+      "entity_name": "Quiz2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081987",
+        "name": "Quiz2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081987,
+        "due_date": null,
+        "points_possible": 40.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081987",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081988",
+      "entity_name": "Exam2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081988",
+        "name": "Exam2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081988,
+        "due_date": null,
+        "points_possible": 100.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081988",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081989",
+      "entity_name": "Quiz5",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081989",
+        "name": "Quiz5",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081989,
+        "due_date": null,
+        "points_possible": 40.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081989",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081990",
+      "entity_name": "Quiz6",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081990",
+        "name": "Quiz6",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081990,
+        "due_date": null,
+        "points_possible": 40.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081990",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081991",
+      "entity_name": "FinalExam",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081991",
+        "name": "FinalExam",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081991,
+        "due_date": null,
+        "points_possible": 200.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081991",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081992",
+      "entity_name": "Lab",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081992",
+        "name": "Lab",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081992,
+        "due_date": null,
+        "points_possible": 160.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081992",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081993",
+      "entity_name": "Exam1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081993",
+        "name": "Exam1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081993,
+        "due_date": null,
+        "points_possible": 100.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081993",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1081994",
+      "entity_name": "Quiz4",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1081994",
+        "name": "Quiz4",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1081994,
+        "due_date": null,
+        "points_possible": 40.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1081994",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1115264",
+      "entity_name": "Quiz 3",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1115264",
+        "name": "Quiz 3",
+        "description": null,
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-129-01-2248 - General Chemistry for Agriculture and Life Science III",
+        "course_id": "139911",
+        "canvas_assignment_id": 1115264,
+        "due_date": "2024-10-16T06:59:59Z",
+        "points_possible": 40.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/139911/assignments/1115264",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146826",
+      "entity_name": "Journal Club 1 - Paper Selections",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146826",
+        "name": "Journal Club 1 - Paper Selections",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Group Leaders - Post a link and/or pdf of the paper for your group to discuss this week.</p>\n<p>Participants - Comment that you have received the link to the paper</p>\n<p>Go to: <a href=\"https://pubs.acs.org/\" target=\"_blank\">https://pubs.acs.org/</a></p>\n<p>Choose an area of interest, Choose a Journal that sounds interesting.</p>\n<p>There are several different sections to note on the journal page:</p>\n<ul>\n<li>ASAP means \"As soon as publishable\" so these are the newest accepted articles to the journal</li>\n<li>Featured Content is a few selected highlights from the last full publication.&nbsp; So these are noteworthy and recent.</li>\n<li>\"Most Read\" is a good section to find articles that are broadly engaging.</li>\n</ul>\n<p>Pick an article and share a link!</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146826,
+        "due_date": "2025-02-15T07:59:00Z",
+        "points_possible": 1.0,
+        "submission_types": [
+          "discussion_topic"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146826",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146827",
+      "entity_name": "Assignment - Career Plan",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146827",
+        "name": "Assignment - Career Plan",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Why work on a resume when you have a few more years of school?&nbsp; At this point in your career and development, you have many opportunities to grow into the field that you are interested in!&nbsp; Taking time now to explore career options and make a plan will allow you to build your resume to become a stronger candidate when the time comes to apply.</p>\n<p>This objective has two components:</p>\n<ul>\n<li>Complete Career Exploration using mynextmove.org</li>\n<li>Submit a short Career Plan</li>\n</ul>\n<h2>Career Plan</h2>\n<p>For the final project, you need to create a short document that outlines the following components of your career plan:</p>\n<ul>\n<li>Overview of potential career paths\n<ul>\n<li>What careers interest you?</li>\n<li>What would this career entail?</li>\n</ul>\n</li>\n<li>Chart a path to achieving this career\n<ul>\n<li>What educational milestones would you need?</li>\n<li>What extra-curricular development would prepare you?</li>\n</ul>\n</li>\n<li>What are the skills needed for this career?\n<ul>\n<li>How can you develop these skills?</li>\n<li>Are there certifications that can highlight these skills?</li>\n</ul>\n</li>\n<li>What is your plan over the next 12 months to prepare yourself?\n<ul>\n<li>Dedicated section of your document</li>\n<li>This includes your summer plans this year!</li>\n<li>Be intentional &amp; detailed! Specific internships or opportunities should be evaluated!</li>\n</ul>\n</li>\n</ul>\n<p>During Week 10, we will spend time in class sharing your career plans with your peers and discussing them.&nbsp; Come prepared and this will be a good opportunity to refine your document before committing to a final submission.</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146827,
+        "due_date": "2025-03-15T06:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146827",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146828",
+      "entity_name": "Assignment - Resume Final Draft",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146828",
+        "name": "Assignment - Resume Final Draft",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Throughout this quarter, you will be editing a professional resume highlighting your chemistry-related skills!&nbsp; A strong resume will equip you to apply for internships, REUs, and other programs of study.&nbsp; Eventually, a strong resume will be vital to applying for Jobs and Graduate Programs!</p>\n<p>Submit a PDF of your Final/Updated Resume.</p>\n<p>In addition to your resume, you must submit a relevant job posting!</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146828,
+        "due_date": "2025-02-01T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146828",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146829",
+      "entity_name": "Assignment - Technical Skills",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146829",
+        "name": "Assignment - Technical Skills",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>From Organic Chemistry (Sophomore Year) through Instrumental Analysis, you are expected to present information in a clear and professional manner.&nbsp; Organization of information and the use of existing templates, make information easy to read.</p>\n<p>We will learn how to use ChemDraw to create simple figures and structures that are ready for publication, as well as how to effectively use Templates in Microsoft Office to create accessible documents with easy generation of a table of contents.</p>\n<p>To install ChemDraw, see <a title=\"ChemDraw Installation Instructions\" href=\"https://canvas.calpoly.edu/courses/148823/pages/chemdraw-installation-instructions\" data-course-type=\"wikiPages\" data-published=\"true\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/148823/pages/chemdraw-installation-instructions\" data-api-returntype=\"Page\">ChemDraw Installation Instructions</a></p>\n<h2>ChemDraw</h2>\n<h4>Part 1</h4>\n<ul>\n<li>Look up the Chemical Structure for any natural product or commercial drug.&nbsp; (If you can't decide on a good one, Penicillin V is one of the most important molecular discoveries in recent history).</li>\n<li>Use ChemDraw to recreate this structure</li>\n<li>Use the Analysis window to note the Molecular Formula and Molecular Weight of the compound</li>\n</ul>\n<h4>Part 2</h4>\n<ul>\n<li>Choose a single reaction scheme (<em>NOT mechanism</em>) to recreate using ChemDraw.\n<ul>\n<li>The Reaction must include: at least 2 starting materials &amp; reagent(s) to go over the arrow.</li>\n</ul>\n</li>\n<li>Once you have drawn out the reaction:\n<ul>\n<li>Select the reaction scheme. Go to \u201cStructure -&gt; Clean up Reaction\u201d from the menu bar</li>\n<li>Right click the reaction scheme.\n<ul>\n<li>Analysis -&gt; Chemical Formula</li>\n<li>Analysis -&gt; Molecular Weight</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<h4>Part 3</h4>\n<ul>\n<li>EXPLORE! Make<span>&nbsp;</span><strong><em>ONE</em></strong><span>&nbsp;</span>figure or scheme using one of ChemDraw\u2019s other tools</li>\n<li>Look through the toolbar to find templates and other drawing tools. Some example ideas:\n<ul>\n<li>TLC Plates, with multiple spots and R<sub>f<span>&nbsp;</span></sub>values</li>\n<li>Try putting structures into each cell and then playing with the \u201cObject -&gt; align\u201d commands</li>\n<li>Clipware for Glassware images. Recreate a reaction set-up from Organic Lab!</li>\n<li>Orbitals \u2013 Draw the HOMO or LUMO for a given compound with the orbital tools</li>\n</ul>\n</li>\n</ul>\n<h2>WORD</h2>\n<p>Use the styles built into word (you can edit them if you\u2019d like) to present your Chemdraw figures with the following guidelines:</p>\n<ul>\n<li>Select the figure in chemdraw, copy and paste into Word.\n<ul>\n<li>Depending on if you use a Mac or PC, word handles these figures differently\u2026 but they should show up regardless of platform.</li>\n</ul>\n</li>\n<li>Include a Table of Contents that is built from the heading styles</li>\n<li>Use at least 3 different sub-headings for sections\n<ul>\n<li>Heading 1 - Title of the Document</li>\n<li>Heading 2 \u2013 Title for subsection</li>\n<li>Heading 3 \u2013 Title for reflection of subsection</li>\n</ul>\n</li>\n<li>Include your name in the Header of the document</li>\n<li>Insert page numbers into the Footer of the document</li>\n</ul><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146829,
+        "due_date": "2025-01-25T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146829",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146830",
+      "entity_name": "Journal Club 1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146830",
+        "name": "Journal Club 1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146830,
+        "due_date": "2025-02-22T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146830",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146831",
+      "entity_name": "Journal Club 2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146831",
+        "name": "Journal Club 2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146831,
+        "due_date": "2025-03-01T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146831",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146832",
+      "entity_name": "Journal Club 3 ",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146832",
+        "name": "Journal Club 3 ",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146832,
+        "due_date": "2025-03-08T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146832",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146833",
+      "entity_name": "Reflection - Career Investigation",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146833",
+        "name": "Reflection - Career Investigation",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146833,
+        "due_date": "2025-01-18T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146833",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146834",
+      "entity_name": "Reflection - Inspirations and Aspirations",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146834",
+        "name": "Reflection - Inspirations and Aspirations",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146834,
+        "due_date": "2025-01-11T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146834",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1146835",
+      "entity_name": "Reflection - What is the Value of Named Reactions in Organic Chemistry",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1146835",
+        "name": "Reflection - What is the Value of Named Reactions in Organic Chemistry",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-203-01-2252 - Undergraduate Seminar I",
+        "course_id": "148823",
+        "canvas_assignment_id": 1146835,
+        "due_date": "2025-02-08T07:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "external_tool"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/148823/assignments/1146835",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301104",
+      "entity_name": "Quiz 3 (no lecture review questions on this quiz)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301104",
+        "name": "Quiz 3 (no lecture review questions on this quiz)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301104,
+        "due_date": "2025-07-08T06:59:00Z",
+        "points_possible": 16.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301104",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301105",
+      "entity_name": "Quiz 2 (includes review questions on Lecture 4)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301105",
+        "name": "Quiz 2 (includes review questions on Lecture 4)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301105,
+        "due_date": "2025-07-02T06:59:00Z",
+        "points_possible": 14.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301105",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301106",
+      "entity_name": "Quiz 8 (includes review questions on Lectures 15 and 16)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301106",
+        "name": "Quiz 8 (includes review questions on Lectures 15 and 16)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301106,
+        "due_date": "2025-07-24T06:59:00Z",
+        "points_possible": 12.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301106",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301107",
+      "entity_name": "Quiz 1 (includes review questions on Lecture 1)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301107",
+        "name": "Quiz 1 (includes review questions on Lecture 1)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301107,
+        "due_date": "2025-06-27T06:59:00Z",
+        "points_possible": 19.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301107",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301108",
+      "entity_name": "Exam 3: click here to begin the exam",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301108",
+        "name": "Exam 3: click here to begin the exam",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301108,
+        "due_date": "2025-07-26T06:59:00Z",
+        "points_possible": 50.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301108",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301109",
+      "entity_name": "Quiz 5 (includes review questions on Lectures 10 and 11)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301109",
+        "name": "Quiz 5 (includes review questions on Lectures 10 and 11)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301109,
+        "due_date": "2025-07-13T06:59:00Z",
+        "points_possible": 14.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301109",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301111",
+      "entity_name": "Quiz 6 (includes review questions on Lectures 11 and 12)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301111",
+        "name": "Quiz 6 (includes review questions on Lectures 11 and 12)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301111,
+        "due_date": "2025-07-19T06:59:00Z",
+        "points_possible": 16.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301111",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1301112",
+      "entity_name": "Quiz 4 (includes review questions on Lectures 7 and 8)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1301112",
+        "name": "Quiz 4 (includes review questions on Lectures 7 and 8)",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1301112,
+        "due_date": "2025-07-13T06:59:00Z",
+        "points_possible": 15.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1301112",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1303310",
+      "entity_name": "Exam 1: click here to begin the exam",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1303310",
+        "name": "Exam 1: click here to begin the exam",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>NOTE: If you would like to view the question images more closely, use your fingers in a spreading motion on your computer's touchpad or screen to zoom in.</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1303310,
+        "due_date": "2025-07-05T06:59:00Z",
+        "points_possible": 50.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1303310",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:1303311",
+      "entity_name": "Exam 2: click here to begin the exam",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:1303311",
+        "name": "Exam 2: click here to begin the exam",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>NOTE: If you would like to view the question images more closely, use your fingers in a spreading motion on your computer's touchpad or screen to zoom in.</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "ART-112-80-2256 - Western Art: A Thematic History",
+        "course_id": "159741",
+        "canvas_assignment_id": 1303311,
+        "due_date": "2025-07-16T06:59:00Z",
+        "points_possible": 50.0,
+        "submission_types": [
+          "online_quiz"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/159741/assignments/1303311",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776877",
+      "entity_name": "Assignment | About You Video",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776877",
+        "name": "Assignment | About You Video",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Record and submit a 1-2 min. video URL from your <i>favorite </i>part of your home or place you can get to and cover these topics and more if you wish.</p>\n<ul>\n<li>your name</li>\n<li>where you grew up</li>\n<li>what you want to get out of this class</li>\n<li>a surprising thing that happened to you in the last 3 months.</li>\n<li>your pump up song (if there's a clean-ish version I'll play it in class)</li>\n<li>a story (and optional visual aid) about a favorite smell from your childhood</li>\n</ul>\n<p>As an example, here is mine...<a class=\"inline_disabled\" href=\"https://youtu.be/j-KmoMcflJM\" target=\"_blank\">About Me video</a></p>\n<p>Upload your video to YouTube (unlisted) and submit the URL.</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776877,
+        "due_date": "2023-10-02T06:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_url"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776877",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776878",
+      "entity_name": "Assignment | Ch. 1 Perceptions of Sales",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776878",
+        "name": "Assignment | Ch. 1 Perceptions of Sales",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Using the textbox, submit the following:</p>\n<ol>\n<li>What 5 words come to mind when you think about the sales profession and salespeople?</li>\n<li>What was the BEST sales experience you've ever had, why, and what was the result?</li>\n<li>What was the WORST sales experience you've ever had, why, and what was the result?</li>\n<li>If you were a salesperson, what part of the job would be the HARDEST OR LEAST SATISFYING for you?</li>\n<li>If you were a salesperson, what part of the job would be the EASIEST OR MOST SATISFYING for you?</li>\n</ol>\n<p>&nbsp;</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776878,
+        "due_date": "2023-10-02T06:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_text_entry"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776878",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776885",
+      "entity_name": "Assignment | Guest Speaker Take-Aways | EJ Gallo",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776885",
+        "name": "Assignment | Guest Speaker Take-Aways | EJ Gallo",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>What were the Top 10 take-aways that you had heard from EJ Gallo this week in class?</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776885,
+        "due_date": "2023-11-13T07:59:59Z",
+        "points_possible": 10.0,
+        "submission_types": [
+          "online_text_entry"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776885",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776886",
+      "entity_name": "Assignment | Guest Speaker Take-Aways | Mexican Culture",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776886",
+        "name": "Assignment | Guest Speaker Take-Aways | Mexican Culture",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>What were the Top 10 take-aways that you had heard from Tanya Chroman regarding the Mexican culture this week in class?</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776886,
+        "due_date": "2023-11-13T07:59:59Z",
+        "points_possible": 10.0,
+        "submission_types": [
+          "online_text_entry"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776886",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776890",
+      "entity_name": "Assignment | Personal SWOT",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776890",
+        "name": "Assignment | Personal SWOT",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>After viewing the lecture on Sales and Marketing, submit a PDF of your personal SWOT (see attached file as a template or make your own). Dig deep and be brutally honest with yourself.</p>\n<p><a class=\"instructure_file_link instructure_scribd_file\" title=\"Chapter 2 - Personal SWOT-1.pptx\" href=\"https://canvas.calpoly.edu/courses/114763/files/10740419/download?verifier=JqcVq24NocTLDT2D1jTmSwEKzfmCKaJnHBRldlNJ&amp;wrap=1\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/114763/files/10740419\" data-api-returntype=\"File\">Chapter 2 - Personal SWOT-1.pptx</a></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776890,
+        "due_date": "2023-10-09T06:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776890",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776892",
+      "entity_name": "Assignment | Prospecting",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776892",
+        "name": "Assignment | Prospecting",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Article:&nbsp;&nbsp;<a class=\"instructure_file_link inline_disabled\" href=\"https://www.superoffice.com/blog/prospecting/\" target=\"_blank\">Prospecting Article</a></p>\n<p>Please respond to these questions in the textbox.</p>\n<p style=\"padding-left: 40px;\">What was the <u>muddiest point</u>&nbsp;of the article for you (the point you find the least clear and most confusing) in the article?</p>\n<p style=\"padding-left: 40px;\">What was the most surprising statistic to you and why?</p>\n<p style=\"padding-left: 40px;\">Why do YOU think prospecting is important in your own words?</p>\n<p style=\"padding-left: 40px;\">Then, reflect on what you think the article missed or didn't say that you think is noteworthy.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776892,
+        "due_date": "2023-10-02T06:59:59Z",
+        "points_possible": 5.0,
+        "submission_types": [
+          "online_text_entry"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776892",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776894",
+      "entity_name": "Assignment | Sell It Script & Practice Sign-Offs",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776894",
+        "name": "Assignment | Sell It Script & Practice Sign-Offs",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>FLASH ASSIGNMENT - Today is practice day for the Sell It scripts. Today in class, show me your script for 10 points and show me your rubric with at least 3 signatures on it from people who you practiced with in class. This assignment times out at 6pm today.&nbsp;</p>\n<p>Sick people can email me a photo of their signatures to get credit.</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776894,
+        "due_date": "2023-11-01T01:00:00Z",
+        "points_possible": 10.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776894",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776897",
+      "entity_name": "Attendance",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776897",
+        "name": "Attendance",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776897,
+        "due_date": "2023-12-15T07:59:00Z",
+        "points_possible": 100.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776897",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776898",
+      "entity_name": "Final Project | Grocery Store Display Pitch Check-In",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776898",
+        "name": "Final Project | Grocery Store Display Pitch Check-In",
+        "description": null,
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776898,
+        "due_date": "2023-11-29T02:00:00Z",
+        "points_possible": 10.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776898",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:776902",
+      "entity_name": "Project | Paperclip Challenge",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:776902",
+        "name": "Project | Paperclip Challenge",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><h3>The Famous Paperclip Challenge</h3>\n<p><a class=\"inline_disabled\" href=\"https://som.yale.edu/news/2017/11/video-what-can-you-get-for-paperclip\" target=\"_blank\">Watch:&nbsp; Yale School of Management article and video \"Bigger &amp; Better\"</a></p>\n<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"PaperclipGroups-Spring22.pdf\" href=\"https://canvas.calpoly.edu/courses/114763/files/10740445?verifier=d2pg0qdNIcgV1Ch6wuJv4uoz78oOIGlvU74d4hJk&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/114763/files/10740445\" data-api-returntype=\"File\">GROUP ASSIGNMENTS</a></p>\n<p>The objective of this assignment is for your group to start with a paperclip, and after several trades over 2 weeks, end up with the biggest and best 'thing' you can. The final 'thing' does not need to be physical, but there must be something to represent the 'thing'. We will do the first trade in class and switch with your teammate the following week. Each teammate must do at least 3 trades and end up with an item with a value of at least $10.</p>\n<p>You will utilize: Prospecting, rejection, elevator pitch, storytelling, persuasion, strategy, negotiation, teamwork, communication, feature/benefits, and closing.</p>\n<p>Submission/Class Presentation - On Presentation Day, your group will present your Trail of Trades ending with your final biggest and best 'thing' to the class. To help with your presentation, submit a PDF to Canvas before class for me to pull up for your group. For your presentation, walk us through the Trail of Trades, one trade at a time, with each slide showing a picture of the 'thing', the team member making the deal, and its value. Last, give us a brief reflection on 2 take-aways from this project. The class will vote on a category winner for <span style=\"text-decoration: underline;\">each</span> of these categories:&nbsp; size, value, and creativity.</p>\n<p>Canvas Submission - In Canvas, only 1 person from your group needs to submit your team PDF. Please submit it before Thursday's class so I can pull up your submission for your presentation in class. Otherwise, it officially needs to be submitted by midnight on Friday.</p>\n<p><span style=\"color: #e03e2d;\"><em>Rubric:</em>&nbsp;</span> Each group will get full credit for participating but both students need to present the Trail of Trades.&nbsp;</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "AGB-202-01-2238 - Introduction to Sales",
+        "course_id": "114763",
+        "canvas_assignment_id": 776902,
+        "due_date": "2023-11-03T01:00:00Z",
+        "points_possible": 100.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/114763/assignments/776902",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910394",
+      "entity_name": "Absorbance I",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910394",
+        "name": "Absorbance I",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910394,
+        "due_date": null,
+        "points_possible": 10.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910394",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910395",
+      "entity_name": "Absorbance II",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910395",
+        "name": "Absorbance II",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910395,
+        "due_date": null,
+        "points_possible": 10.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910395",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910396",
+      "entity_name": "Emission",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910396",
+        "name": "Emission",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910396,
+        "due_date": null,
+        "points_possible": 10.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910396",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910408",
+      "entity_name": "Quiz 1 Scores",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910408",
+        "name": "Quiz 1 Scores",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910408,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910408",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910409",
+      "entity_name": "Quiz 2 Grades",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910409",
+        "name": "Quiz 2 Grades",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910409,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910409",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910411",
+      "entity_name": "Quiz 4 grades",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910411",
+        "name": "Quiz 4 grades",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910411,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910411",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910412",
+      "entity_name": "Quiz 5 grades",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910412",
+        "name": "Quiz 5 grades",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910412,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910412",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910413",
+      "entity_name": "Quiz 6 grades",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910413",
+        "name": "Quiz 6 grades",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910413,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910413",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:910414",
+      "entity_name": "Quiz 7",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:910414",
+        "name": "Quiz 7",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 910414,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/910414",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923231",
+      "entity_name": "Pre-Lab #11 ",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923231",
+        "name": "Pre-Lab #11 ",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><span>Submit your completed Pre-Lab #11 Template </span><span>in class upon arrival.</span><strong></strong></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923231,
+        "due_date": "2024-03-15T19:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923231",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923232",
+      "entity_name": "Pre-Lab #3",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923232",
+        "name": "Pre-Lab #3",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Submit your completed Pre-Lab #3 Template (page 11 of the Lab Report booklet) <span>in class upon arrival.</span></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923232,
+        "due_date": "2024-01-26T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "online_upload"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923232",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923233",
+      "entity_name": "Pre-Lab #5",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923233",
+        "name": "Pre-Lab #5",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><span>Submit your completed Pre-Lab #5 Template&nbsp;</span><span>in class upon arrival.</span></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923233,
+        "due_date": "2024-02-09T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923233",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923234",
+      "entity_name": "Pre-Lab #6",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923234",
+        "name": "Pre-Lab #6",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Submit Pre-Lab #6 Template <span>in class upon arrival.</span><br><br></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923234,
+        "due_date": "2024-02-16T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923234",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923235",
+      "entity_name": "Pre-Lab #9 ",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923235",
+        "name": "Pre-Lab #9 ",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><span>Submit your completed Pre-Lab #9 Template&nbsp;</span><span>in class upon arrival.</span><strong></strong></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923235,
+        "due_date": "2024-03-08T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923235",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923236",
+      "entity_name": "Pre-lab #2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923236",
+        "name": "Pre-lab #2",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Pre-lab #2 Enzymes (p 5). from the Lab Report Booklet.&nbsp; You can find an example of a completed pre-lab <a class=\"instructure_file_link instructure_scribd_file\" title=\"Pre-lab Example.pdf\" href=\"https://canvas.calpoly.edu/courses/118542/files/12284014/download?verifier=BLEkjrerKkik0z5qPDsH4ta78mEEjrx6ISrT3vm6&amp;wrap=1\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/118542/files/12284014\" data-api-returntype=\"File\">here</a> for week 1.</p>\n<p><em>Submit in class upon arrival.</em></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923236,
+        "due_date": "2024-01-19T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923236",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923237",
+      "entity_name": "Pre-lab #4",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923237",
+        "name": "Pre-lab #4",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><span>Submit your completed Pre-Lab #4 Template (pages 17-18 of the Lab Report booklet)&nbsp;</span><span>in class upon arrival.</span></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923237,
+        "due_date": "2024-02-02T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923237",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923238",
+      "entity_name": "Pre-lab #8",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923238",
+        "name": "Pre-lab #8",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><span>Submit your completed Pre-Lab #8 Template </span><span>in class upon arrival.</span></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923238,
+        "due_date": "2024-03-01T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923238",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923239",
+      "entity_name": "Prelab #7",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923239",
+        "name": "Prelab #7",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p>Complete and submit the Pre-lab #7 template (pages 33 and 34) from your lab report booklet <span>in class upon arrival.</span></p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923239,
+        "due_date": "2024-02-23T20:00:00Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923239",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:923246",
+      "entity_name": "Week 1 Group Report | Pigments",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:923246",
+        "name": "Week 1 Group Report | Pigments",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401206/dp_app.css\"><p><strong>(Guided) Lab Report #1.</strong> This is your first group report, but don't worry!&nbsp; It's \"guided\" for you to provide some direction on the general approach and organization of our lab reports.&nbsp; You only need to submit ONE copy of BOTH the written report and the results per group. <br><br>Please do the following (as a group!):</p>\n<p>**Read <a class=\"inline_disabled\" title=\"Link\" href=\"https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism\" target=\"_blank\">this article from Oxford University </a>about plagiarism before starting any writing!**</p>\n<p>1. Fill in your responses to the report \"prompts\" in the Guided Report you received in class this week. Use the provided <a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Lab Report Guide 2020.pdf\" href=\"https://canvas.calpoly.edu/courses/118542/files/12284032?verifier=fSxUV5KbIAydp6ryiZqUdm28BIzTsIfW3OMrue5V&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/118542/files/12284032\" data-api-returntype=\"File\">Report Guide</a> to help!<br>2. <strong>Type </strong>up your responses to the review questions and <strong>print them out</strong>. You can find the review questions in the<a href=\"https://canvas.calpoly.edu/courses/118542/pages/week-1-review-questions?module_item_id=3372312\" data-api-endpoint=\"https://canvas.calpoly.edu/api/v1/courses/118542/pages/week-1-review-questions\" data-api-returntype=\"Page\"> Week 1 Review Questions</a> page.<br>3. Complete the Results sheet for lab #1 (pg 3-4 from your purchased Report Booklet).&nbsp;<br>4. <span style=\"text-decoration: underline;\"><strong>Staple all items (#1-3) and submit in class in Week 2</strong></span></p>\n<p><br>You ARE doing this in groups, so please distribute the work evenly and fairly!</p><script src=\"https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_152790000000000001/attachments/19401205/dp_app.js\"></script>",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "BIO-161-19-2242 - Introduction to Cell and Molecular Biology",
+        "course_id": "118542",
+        "canvas_assignment_id": 923246,
+        "due_date": "2024-01-19T20:00:00Z",
+        "points_possible": 10.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/118542/assignments/923246",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:961317",
+      "entity_name": "Quiz 8",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:961317",
+        "name": "Quiz 8",
+        "description": null,
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-127-01-2242 - General Chemistry for Agriculture and Life Science I",
+        "course_id": "121537",
+        "canvas_assignment_id": 961317,
+        "due_date": null,
+        "points_possible": 14.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/121537/assignments/961317",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999986",
+      "entity_name": "MQ 5.2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999986",
+        "name": "MQ 5.2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999986,
+        "due_date": "2024-05-04T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "on_paper"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999986",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999987",
+      "entity_name": "MQ1.1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999987",
+        "name": "MQ1.1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999987,
+        "due_date": "2024-04-06T06:59:59Z",
+        "points_possible": 4.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999987",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999988",
+      "entity_name": "MQ1.2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999988",
+        "name": "MQ1.2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999988,
+        "due_date": "2024-04-06T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999988",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999990",
+      "entity_name": "MQ2.1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999990",
+        "name": "MQ2.1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999990,
+        "due_date": "2024-04-13T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999990",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999991",
+      "entity_name": "MQ2.2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999991",
+        "name": "MQ2.2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999991,
+        "due_date": "2024-04-13T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999991",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999992",
+      "entity_name": "MQ3.1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999992",
+        "name": "MQ3.1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999992,
+        "due_date": "2024-04-20T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999992",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999993",
+      "entity_name": "MQ3.2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999993",
+        "name": "MQ3.2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999993,
+        "due_date": "2024-04-20T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999993",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999994",
+      "entity_name": "MQ4.1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999994",
+        "name": "MQ4.1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999994,
+        "due_date": "2024-04-27T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999994",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999995",
+      "entity_name": "MQ4.2",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999995",
+        "name": "MQ4.2",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999995,
+        "due_date": "2024-04-27T06:59:59Z",
+        "points_possible": 3.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999995",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:999996",
+      "entity_name": "MQ5.1",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:999996",
+        "name": "MQ5.1",
+        "description": "",
+        "aliases": [],
+        "sources": [],
+        "assignment_type": null,
+        "course_name": "CHEM-125-51-2244 - General Chemistry for Physical Science and Engineering II",
+        "course_id": "127543",
+        "canvas_assignment_id": 999996,
+        "due_date": "2024-05-04T06:59:59Z",
+        "points_possible": 6.0,
+        "submission_types": [
+          "none"
+        ],
+        "is_published": true,
+        "html_url": "https://canvas.calpoly.edu/courses/127543/assignments/999996",
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:final-exam",
+      "entity_name": "Final Exam (Cumulative)",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:final-exam",
+        "name": "Final Exam (Cumulative)",
+        "description": "Cumulative final exam; follows similar format to midterms; scheduled Thursday 10:10-1:00 pm.",
+        "aliases": [
+          "Final Exam"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Quizzes and Exams",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "The final exam will be cumulative and will follow a similar format to the midterm exams."
+          }
+        ],
+        "assignment_type": null,
+        "course_name": null,
+        "course_id": null,
+        "canvas_assignment_id": null,
+        "due_date": null,
+        "points_possible": null,
+        "submission_types": [],
+        "is_published": null,
+        "html_url": null,
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:in-class-quizzes",
+      "entity_name": "In-Class Quizzes",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:in-class-quizzes",
+        "name": "In-Class Quizzes",
+        "description": "Two in-class quizzes (Weeks 3 and 7) taking ~20 minutes as midpoint check-ins before midterms.",
+        "aliases": [
+          "Quizzes"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Quizzes and Exams",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Over the course of the quarter, you will take two quizzes... Quizzes (Weeks 3 and 7) will generally take 20 minutes"
+          }
+        ],
+        "assignment_type": null,
+        "course_name": null,
+        "course_id": null,
+        "canvas_assignment_id": null,
+        "due_date": null,
+        "points_possible": null,
+        "submission_types": [],
+        "is_published": null,
+        "html_url": null,
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:journal-assignments",
+      "entity_name": "Journal Assignments",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:journal-assignments",
+        "name": "Journal Assignments",
+        "description": "Two journal article-based assignments due Weeks 3 and 10; hard copies required in class; late submissions not accepted.",
+        "aliases": [
+          "Journal Assignment"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Journal Assignment",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Two journal article-based assignments will be due throughout the quarter (Weeks 3 and 10). You are expected to bring hard copies of your assignment to class on the due date. Late submissions will not be accepted."
+          }
+        ],
+        "assignment_type": null,
+        "course_name": null,
+        "course_id": null,
+        "canvas_assignment_id": null,
+        "due_date": null,
+        "points_possible": null,
+        "submission_types": [],
+        "is_published": null,
+        "html_url": null,
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:midterm-exams",
+      "entity_name": "Midterms",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:midterm-exams",
+        "name": "Midterms",
+        "description": "Two midterm exams scheduled Weeks 5 and 9 with multiple choice, short answer, problem solving (including calculations), and drawing of structures/diagrams.",
+        "aliases": [
+          "Midterm exams",
+          "Midterm 1",
+          "Midterm 2"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Quizzes and Exams",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Midterm exams are scheduled in Weeks 5 and 9 and will consist of multiple choice questions, short answer questions, problem solving (including calculations), and drawing of structures or diagrams."
+          }
+        ],
+        "assignment_type": null,
+        "course_name": null,
+        "course_id": null,
+        "canvas_assignment_id": null,
+        "due_date": null,
+        "points_possible": null,
+        "submission_types": [],
+        "is_published": null,
+        "html_url": null,
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "assignment:reading-quizzes",
+      "entity_name": "Reading Quizzes",
+      "entity_type": "Assignment",
+      "data": {
+        "id": "assignment:reading-quizzes",
+        "name": "Reading Quizzes",
+        "description": "Short multiple-choice quizzes on Canvas due before each lecture; two lowest scores dropped; late submissions not accepted.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Reading Quizzes",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "you will be asked to complete the chapter reading and a short reading quiz prior to each class. These will consist of multiple-choice questions posted on the course Canvas page. Your two lowest reading quiz scores will be dropped. Quizzes are due at 9:40 am before each lecture and late submissions will not be accepted."
+          }
+        ],
+        "assignment_type": null,
+        "course_name": null,
+        "course_id": null,
+        "canvas_assignment_id": null,
+        "due_date": null,
+        "points_possible": null,
+        "submission_types": [],
+        "is_published": null,
+        "html_url": null,
+        "covers_concepts": [],
+        "covers_theories": [],
+        "covers_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:adenine",
+      "entity_name": "Adenine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:adenine",
+        "name": "Adenine",
+        "description": "Nitrogenous base; one of the nucleic acid bases listed in the learning objectives.",
+        "aliases": [
+          "A"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Be able to draw and identify all nucleic acid bases ... adenine, guanine, cytosine, uracil, and thymine."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:adenosine",
+      "entity_name": "Adenosine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:adenosine",
+        "name": "Adenosine",
+        "description": "Nucleoside name for adenine + ribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Adenine | Ribose | Adenosine | Adenosine monophosphate (AMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:air",
+      "entity_name": "AIR",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:air",
+        "name": "AIR",
+        "description": "Product of a committed step in purine biosynthesis produced from PRPP, glutamine, glycine, formate, and ATP; intermediate used toward IMP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part I: Generating the 5-membered ring",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Committed \nStep!\n\nPRPP + 2 Glutamine + \nGlycine + Formate + 3 ATP \n\u2192 AIR"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:amp",
+      "entity_name": "Adenosine monophosphate (AMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:amp",
+        "name": "AMP",
+        "description": "A purine nucleotide synthesized from IMP (as stated as a precursor).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part II: Generating the 6-membered ring",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Inosine \u2013 \nour precursor to AMP and GMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:aromatic-ring",
+      "entity_name": "Aromatic rings",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:aromatic-ring",
+        "name": "Aromatic rings",
+        "description": "A distinct chemical feature of nitrogenous bases per the slide.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nitrogenous bases have distinct chemical features",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nitrogenous bases have distinct chemical features\n\n\u2022 Aromatic rings"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:central-dogma",
+      "entity_name": "Central dogma",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:central-dogma",
+        "name": "Central dogma",
+        "description": "Core molecular biology framework including replication, transcription, and translation; addressed in learning objectives.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Describe the processes of the central dogma, including replication, transcription, and translation, and explain how they are regulated"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:central-dogma-molecular-biology",
+      "entity_name": "Central dogma of molecular biology",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:central-dogma-molecular-biology",
+        "name": "Central dogma of molecular biology",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": null,
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "The central dogma of molecular biology"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:chromosome-structure",
+      "entity_name": "Chromosome Structure",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:chromosome-structure",
+        "name": "Chromosome Structure",
+        "description": "Structure of chromosomes; a scheduled lecture topic.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  Chromosome Structure"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:cmp",
+      "entity_name": "Cytidine monophosphate (CMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:cmp",
+        "name": "CMP",
+        "description": "Cytidine monophosphate; shown in pathway to make dCTP via cytidylate kinase and ribonucleotide reductase steps.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Making dCTP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Making dCTP\n\nCMP + ATP\n\nADP + CDP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:crispr",
+      "entity_name": "CRISPR",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:crispr",
+        "name": "CRISPR",
+        "description": "A modern molecular biology topic/technique covered in the lecture schedule.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  CRISPR"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:ctp",
+      "entity_name": "CTP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:ctp",
+        "name": "CTP",
+        "description": "Pyrimidine ribonucleoside triphosphate; indicated to inhibit aspartate transcarbamoylase (feedback inhibition).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Feedback inhibition is an important regulator of nucleotide synthesis",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Feedback inhibition is an important regulator of nucleotide \nsynthesis\n...\nAspartate transcarbamoylase is inhibited \nby CTP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:cytidine",
+      "entity_name": "Cytidine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:cytidine",
+        "name": "Cytidine",
+        "description": "Nucleoside name for cytosine + ribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Cytosine | Ribose | Cytidine | Cytidine monophosphate (CMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:cytosine",
+      "entity_name": "Cytosine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:cytosine",
+        "name": "Cytosine",
+        "description": "Nitrogenous base; one of the nucleic acid bases listed in the learning objectives.",
+        "aliases": [
+          "C"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Be able to draw and identify all nucleic acid bases ... adenine, guanine, cytosine, uracil, and thymine."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:damp",
+      "entity_name": "Deoxyadenosine monophosphate (dAMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:damp",
+        "name": "Deoxyadenosine monophosphate (dAMP)",
+        "description": "Nucleotide name/abbreviation for deoxyadenosine monophosphate.",
+        "aliases": [
+          "dAMP"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Adenine | Deoxyribose | Deoxyadenosine | Deoxyadenosine monophosphate (dAMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dcmp",
+      "entity_name": "Deoxycytidine monophosphate (dCMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dcmp",
+        "name": "Deoxycytidine monophosphate (dCMP)",
+        "description": "Nucleotide name/abbreviation for deoxycytidine monophosphate.",
+        "aliases": [
+          "dCMP"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Cytosine | Deoxyribose | Deoxycytidine | Deoxycytidine monophosphate (dCMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dctp",
+      "entity_name": "dCTP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dctp",
+        "name": "dCTP",
+        "description": "Deoxycytidine triphosphate; shown as product of a pathway starting from CMP via CDP/dCDP steps.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Making dCTP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Making dCTP\n...\ndCTP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:deoxyadenosine",
+      "entity_name": "Deoxyadenosine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:deoxyadenosine",
+        "name": "Deoxyadenosine",
+        "description": "Nucleoside name for adenine + deoxyribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Adenine | Deoxyribose | Deoxyadenosine | Deoxyadenosine monophosphate (dAMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:deoxycytidine",
+      "entity_name": "Deoxycytidine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:deoxycytidine",
+        "name": "Deoxycytidine",
+        "description": "Nucleoside name for cytosine + deoxyribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Cytosine | Deoxyribose | Deoxycytidine | Deoxycytidine monophosphate (dCMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:deoxyguanosine",
+      "entity_name": "Deoxyguanosine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:deoxyguanosine",
+        "name": "Deoxyguanosine",
+        "description": "Nucleoside name for guanine + deoxyribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Guanine | Deoxyribose | Deoxyguanosine | Deoxyguanosine monophosphate (dGMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:deoxyribose-2prime",
+      "entity_name": "2\u2019-Deoxyribose",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:deoxyribose-2prime",
+        "name": "2\u2019-Deoxyribose",
+        "description": "A pentose sugar form; key distinguishing feature between DNA and RNA per the slide.",
+        "aliases": [
+          "2'deoxyribose",
+          "Deoxyribose"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "The pentose sugar exists as ribose or 2\u2019-deoxyribose",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "The pentose sugar exists as ribose or 2\u2019-deoxyribose\n\n2\u2019-Deoxyribose\n\nThis is the key distinguishing feature between DNA and RNA!"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:deoxythymidine",
+      "entity_name": "Deoxythymidine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:deoxythymidine",
+        "name": "Deoxythymidine",
+        "description": "Nucleoside name for thymine + deoxyribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Thymine | Deoxyribose | Deoxythymidine | Deoxythymidine monophosphate (dTMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dgmp",
+      "entity_name": "Deoxyguanosine monophosphate (dGMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dgmp",
+        "name": "Deoxyguanosine monophosphate (dGMP)",
+        "description": "Nucleotide name/abbreviation for deoxyguanosine monophosphate.",
+        "aliases": [
+          "dGMP"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Guanine | Deoxyribose | Deoxyguanosine | Deoxyguanosine monophosphate (dGMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna",
+      "entity_name": "DNA",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna",
+        "name": "DNA",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "The pentose sugar exists as ribose or 2\u2019-deoxyribose",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "This is the key distinguishing feature between DNA and RNA!"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna-cloning",
+      "entity_name": "DNA Cloning",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna-cloning",
+        "name": "DNA Cloning",
+        "description": "A DNA technology topic covered in the lecture schedule.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Tuesday  DNA Cloning"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna-repair",
+      "entity_name": "DNA Repair",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna-repair",
+        "name": "DNA Repair",
+        "description": "Mechanisms/processes for repairing DNA; a scheduled lecture topic.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  DNA Repair\nTuesday  DNA Repair Cont."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna-replication",
+      "entity_name": "DNA replication",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna-replication",
+        "name": "DNA replication",
+        "description": "Replication process in the central dogma; covered for both prokaryotes and eukaryotes.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Describe the processes of the central dogma, including replication, transcription, and translation"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna-structure",
+      "entity_name": "DNA structure",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna-structure",
+        "name": "DNA structure",
+        "description": "Structure of DNA; addressed in learning objectives and lecture schedule.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Explain the structure of DNA and RNA and how the differences in their structures relates to their respective functions"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dna-technology",
+      "entity_name": "DNA Technology",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dna-technology",
+        "name": "DNA Technology",
+        "description": "Modern DNA technology topic covered in the lecture schedule.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  DNA Technology"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dtmp",
+      "entity_name": "Deoxythymidine monophosphate (dTMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dtmp",
+        "name": "dTMP",
+        "description": "Deoxythymidine monophosphate; synthesized from dUMP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "dTMP is synthesized from dUMP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "dTMP is synthesized from dUMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dttp",
+      "entity_name": "dTTP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dttp",
+        "name": "dTTP",
+        "description": "Deoxythymidine triphosphate; referenced as a DNA-associated product in the context of regulation.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Pyrimidine biosynthesis only requires input from two precursor molecules",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Some products found in either RNA or DNA (UTP or dTTP) \u2013 must be closely regulated"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dump",
+      "entity_name": "dUMP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dump",
+        "name": "dUMP",
+        "description": "Deoxyuridine monophosphate; precursor for dTMP synthesis via thymidylate synthase.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "dTMP is synthesized from dUMP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "dTMP is synthesized from dUMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:dutp",
+      "entity_name": "dUTP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:dutp",
+        "name": "dUTP",
+        "description": "Deoxyuridine triphosphate; stated that it cannot be allowed to accumulate in the cell.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "We cannot allow dUTP to accumulate in the cell",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "We cannot allow dUTP to accumulate in the cell"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:eukaryotic-systems",
+      "entity_name": "Eukaryotic systems",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:eukaryotic-systems",
+        "name": "Eukaryotic systems",
+        "description": "Biological systems used for comparison with prokaryotic systems in course objectives and topics.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Compare and contrast these processes in prokaryotic and eukaryotic systems"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:feedback-inhibition",
+      "entity_name": "Feedback inhibition",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:feedback-inhibition",
+        "name": "Feedback inhibition",
+        "description": "Regulatory mechanism described as important for nucleotide synthesis; example given: aspartate transcarbamoylase inhibited by CTP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Feedback inhibition is an important regulator of nucleotide synthesis",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Feedback inhibition is an important regulator of nucleotide \nsynthesis"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:folate",
+      "entity_name": "Folate",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:folate",
+        "name": "Folate",
+        "description": "1-carbon carrier in purine and pyrimidine synthesis; identified as Vitamin B9.",
+        "aliases": [
+          "Vitamin B9"
+        ],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Glutamine and folate are other common players in purine and pyrimidine synthesis",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Folate: 1-Carbon Carrier\n\nVitamin B9"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:genetic-code",
+      "entity_name": "Genetic Code",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:genetic-code",
+        "name": "Genetic Code",
+        "description": "Rules mapping nucleic acid sequences to amino acids; a scheduled lecture topic.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  Genetic Code and Ribosome"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:glutamine",
+      "entity_name": "Glutamine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:glutamine",
+        "name": "Glutamine",
+        "description": "Nitrogen donor in purine and pyrimidine synthesis.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Glutamine and folate are other common players in purine and pyrimidine synthesis",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Glutamine and folate are other common players in purine \nand pyrimidine synthesis \n\nGlutamine: Nitrogen donor"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:gmp",
+      "entity_name": "Guanosine monophosphate (GMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:gmp",
+        "name": "GMP",
+        "description": "A purine nucleotide synthesized from IMP (as stated as a precursor).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part II: Generating the 6-membered ring",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Inosine \u2013 \nour precursor to AMP and GMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:guanine",
+      "entity_name": "Guanine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:guanine",
+        "name": "Guanine",
+        "description": "Nitrogenous base; one of the nucleic acid bases listed in the learning objectives.",
+        "aliases": [
+          "G"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Be able to draw and identify all nucleic acid bases ... adenine, guanine, cytosine, uracil, and thymine."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:guanosine",
+      "entity_name": "Guanosine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:guanosine",
+        "name": "Guanosine",
+        "description": "Nucleoside name for guanine + ribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Guanine | Ribose | Guanosine | Guanosine monophosphate (GMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:hydrogen-bonding",
+      "entity_name": "Hydrogen bonding",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:hydrogen-bonding",
+        "name": "Hydrogen bonding",
+        "description": "Nitrogenous bases have the ability to hydrogen bond.",
+        "aliases": [
+          "Ability to hydrogen bond"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nitrogenous bases have distinct chemical features",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nitrogenous bases have distinct chemical features\n\n\u2022 Ability to hydrogen bond"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:inosinate-imp",
+      "entity_name": "Inosinate (IMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:inosinate-imp",
+        "name": "Inosinate (IMP)",
+        "description": "Inosine nucleotide described as the precursor to AMP and GMP; produced from AIR with CO2, aspartate, formate, and ATP.",
+        "aliases": [
+          "IMP",
+          "Inosine precursor to AMP and GMP"
+        ],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part II: Generating the 6-membered ring",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "AIR + CO2 + Aspartate \n+ Formate + ATP \u2192 \nInosinate (IMP)\n\nInosine \u2013 \nour precursor to AMP and GMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:keto-enol-tautomerization",
+      "entity_name": "Keto-enol tautomerization",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:keto-enol-tautomerization",
+        "name": "Keto-enol tautomerization",
+        "description": "Bases can undergo keto-enol tautomerization; enol predominates under non-physiological conditions.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Bases can undergo keto-enol tautomerization",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Bases can undergo keto-enol tautomerization\n\nEnol will predominate under non-physiological conditions"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:molecular-biology-techniques",
+      "entity_name": "Modern molecular biology techniques",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:molecular-biology-techniques",
+        "name": "Modern molecular biology techniques",
+        "description": "Modern techniques in molecular biology as a course learning objective.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Discuss modern molecular biology techniques"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:n-glycosidic-bond",
+      "entity_name": "N-glycosidic bond",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:n-glycosidic-bond",
+        "name": "N-glycosidic bond",
+        "description": "Bond by which bases attach to the pentose sugar.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Bases can be categorized into purines and pyrimidines",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Bases attach to the pentose sugar via an N-glycosidic bond"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nitrogenous-base",
+      "entity_name": "Nitrogenous base",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nitrogenous-base",
+        "name": "Nitrogenous base",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleosides and nucleotides only differ by the presence of phosphate",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nitrogenous Base"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nucleoside",
+      "entity_name": "Nucleoside",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nucleoside",
+        "name": "Nucleoside",
+        "description": "Composed of a pentose sugar and a nitrogenous base; differs from a nucleotide by lack of phosphate.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleosides and nucleotides only differ by the presence of phosphate",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nucleosides and nucleotides only differ by the presence of phosphate\n\nNucleoside\n\nPentose Sugar\n\nNitrogenous Base"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nucleosides",
+      "entity_name": "Nucleosides",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nucleosides",
+        "name": "Nucleosides",
+        "description": "Basic units associated with nucleic acids; covered in course introduction topics.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Syllabus, Introduction,\nNucleosides, Nucleotides"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nucleotide",
+      "entity_name": "Nucleotide",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nucleotide",
+        "name": "Nucleotide",
+        "description": "A nucleoside plus phosphate(s).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleosides and nucleotides only differ by the presence of phosphate",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nucleosides and nucleotides only differ by the presence of phosphate\n\nNucleotide\n\nPentose Sugar\n\nNitrogenous Base\n\nPhosphate(s)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nucleotide-biosynthesis",
+      "entity_name": "Nucleotide biosynthesis",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nucleotide-biosynthesis",
+        "name": "Nucleotide biosynthesis",
+        "description": "Biosynthesis of purine and pyrimidine nucleotides, including formation of triphosphates and deoxyribonucleotides and pathway regulation.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Nucleotide Biosynthesis / Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Learning Objectives\n\n1. Know the building blocks for the biosynthesis of both purine and \n\npyrimidine nucleotides.\n\n2. Identify the differences between purine and pyrimidine synthesis \n\npathways.\n\n3. Be able to describe the structure and function of ribonucleotide \n\nreductase.\n\n4. Understand how enzymes within the biosynthetic pathways are \n\nregulated."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:nucleotides",
+      "entity_name": "Nucleotides",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:nucleotides",
+        "name": "Nucleotides",
+        "description": "Basic units associated with nucleic acids; covered in course introduction topics.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Syllabus, Introduction,\nNucleosides, Nucleotides"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:pentose-sugar",
+      "entity_name": "Pentose sugar",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:pentose-sugar",
+        "name": "Pentose sugar",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleosides and nucleotides only differ by the presence of phosphate",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Pentose Sugar"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:pharmaceutical-targets-nucleotide-biosynthesis",
+      "entity_name": "Nucleotide biosynthesis pathways as pharmaceutical targets",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:pharmaceutical-targets-nucleotide-biosynthesis",
+        "name": "Nucleotide biosynthesis pathways as pharmaceutical targets",
+        "description": "Statement that nucleotide biosynthesis pathways are attractive pharmaceutical targets, including glutamine analogs, nucleotide analogs, and folate analogs (antibiotic/chemotherapeutic contexts).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Nucleotide biosynthesis pathways are attractive pharmaceutical targets",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Nucleotide biosynthesis pathways are attractive \npharmaceutical targets\n\nGlutamine Analogs\n\nChemotherapeutic\n\nNucleotide Analogs\n\nAntibiotic\n\nFolate Analogs\n\nAntibiotic\n\nChemotherapeutic"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:phosphate-group",
+      "entity_name": "Phosphate group",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:phosphate-group",
+        "name": "Phosphate group",
+        "description": null,
+        "aliases": [
+          "Phosphate(s)"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleosides and nucleotides only differ by the presence of phosphate",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nucleotides ... Phosphate(s)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:pka-values-nitrogenous-bases",
+      "entity_name": "pKa values of nitrogenous bases",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:pka-values-nitrogenous-bases",
+        "name": "pKa values of nitrogenous bases",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "pKa values of nitrogenous bases",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "pKa values of nitrogenous bases"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:prokaryotic-systems",
+      "entity_name": "Prokaryotic systems",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:prokaryotic-systems",
+        "name": "Prokaryotic systems",
+        "description": "Biological systems used for comparison with eukaryotic systems in course objectives and topics.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Compare and contrast these processes in prokaryotic and eukaryotic systems"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:prpp",
+      "entity_name": "5-phosphoribosyl-1-pyrophosphate (PRPP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:prpp",
+        "name": "5-phosphoribosyl-1-pyrophosphate (PRPP)",
+        "description": "Donor of sugar and phosphate used in nucleoside monophosphate formation; purine rings are built directly onto PRPP and pyrimidine bases are condensed with PRPP.",
+        "aliases": [
+          "PRPP"
+        ],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Warm Up / PRPP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "In all nucleoside monophosphates, the sugar and \nphosphate come from PRPP\n\n5-phosphoribosyl-1-pyrophosphate"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:purine",
+      "entity_name": "Purine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:purine",
+        "name": "Purine",
+        "description": "Category of bases; attaches to sugar via N9.",
+        "aliases": [
+          "Purines"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Bases can be categorized into purines and pyrimidines",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Bases can be categorized into purines and pyrimidines\n\nPurines attach to the sugar via N9"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:purine-biosynthesis",
+      "entity_name": "Purine biosynthesis",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:purine-biosynthesis",
+        "name": "Purine biosynthesis",
+        "description": "Pathway in which the purine ring is built directly onto PRPP and proceeds through AIR to inosinate (IMP), which is a precursor to AMP and GMP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Purine biosynthesis requires components from many sources",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Purine biosynthesis requires components from many \nsources\n\nBuilt directly onto PRPP\n\n... \n\nPRPP + 2 Glutamine + \nGlycine + Formate + 3 ATP \n\u2192 AIR\n\n...\n\nAIR + CO2 + Aspartate \n+ Formate + ATP \u2192 \nInosinate (IMP)\n\nInosine \u2013 \nour precursor to AMP and GMP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:pyrimidine",
+      "entity_name": "Pyrimidine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:pyrimidine",
+        "name": "Pyrimidine",
+        "description": "Category of bases; attaches to sugar via N1.",
+        "aliases": [
+          "Pyrimidines"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Bases can be categorized into purines and pyrimidines",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Bases can be categorized into purines and pyrimidines\n\nPyrimidines attach to the sugar via N1"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:pyrimidine-biosynthesis",
+      "entity_name": "Pyrimidine biosynthesis",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:pyrimidine-biosynthesis",
+        "name": "Pyrimidine biosynthesis",
+        "description": "Pathway in which the pyrimidine base is built first and then condensed with PRPP; described as requiring input from two precursor molecules.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Pyrimidine biosynthesis only requires input from two precursor molecules",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Pyrimidine biosynthesis only requires input from two \nprecursor molecules\n\nBase is built first, then condensed with PRPP"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:regulation-of-gene-expression",
+      "entity_name": "Regulation of replication, transcription, and translation",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:regulation-of-gene-expression",
+        "name": "Regulation of replication, transcription, and translation",
+        "description": "Regulation of central dogma processes, as specified in learning objectives.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Describe the processes of the central dogma, including replication, transcription, and translation, and explain how they are regulated"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:ribose",
+      "entity_name": "Ribose",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:ribose",
+        "name": "Ribose",
+        "description": "A pentose sugar form.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "The pentose sugar exists as ribose or 2\u2019-deoxyribose",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "The pentose sugar exists as ribose or 2\u2019-deoxyribose\n\nRibose"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:ribosome",
+      "entity_name": "Ribosome",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:ribosome",
+        "name": "Ribosome",
+        "description": "Cellular machinery involved in translation; a scheduled lecture topic paired with genetic code.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Tentative Lecture Schedule",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Thursday  Genetic Code and Ribosome"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:rna",
+      "entity_name": "RNA",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:rna",
+        "name": "RNA",
+        "description": null,
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "The pentose sugar exists as ribose or 2\u2019-deoxyribose",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "This is the key distinguishing feature between DNA and RNA!"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:rna-structure",
+      "entity_name": "RNA structure",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:rna-structure",
+        "name": "RNA structure",
+        "description": "Structure of RNA; addressed in learning objectives and lecture schedule.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Explain the structure of DNA and RNA and how the differences in their structures relates to their respective functions"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:thymine",
+      "entity_name": "Thymine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:thymine",
+        "name": "Thymine",
+        "description": "Nitrogenous base; one of the nucleic acid bases listed in the learning objectives.",
+        "aliases": [
+          "T"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Be able to draw and identify all nucleic acid bases ... adenine, guanine, cytosine, uracil, and thymine."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:transcription",
+      "entity_name": "Transcription",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:transcription",
+        "name": "Transcription",
+        "description": "Transcription process in the central dogma; covered in prokaryotic and eukaryotic contexts.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Describe the processes of the central dogma, including replication, transcription, and translation"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:translation",
+      "entity_name": "Translation",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:translation",
+        "name": "Translation",
+        "description": "Translation process in the central dogma; covered in prokaryotic and eukaryotic contexts.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "Describe the processes of the central dogma, including replication, transcription, and translation"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:ump",
+      "entity_name": "Uridine monophosphate (UMP)",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:ump",
+        "name": "UMP",
+        "description": "Uridine monophosphate; shown being phosphorylated by uridylate kinase in a pathway connected to dUTP/dUMP control.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "We cannot allow dUTP to accumulate in the cell",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "UMP + ATP\n\nADP + UDP\n...\nuridylate\nkinase"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:uracil",
+      "entity_name": "Uracil",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:uracil",
+        "name": "Uracil",
+        "description": "Nitrogenous base; one of the nucleic acid bases listed in the learning objectives.",
+        "aliases": [
+          "U"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Learning Objectives",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Be able to draw and identify all nucleic acid bases ... adenine, guanine, cytosine, uracil, and thymine."
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:uridine",
+      "entity_name": "Uridine",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:uridine",
+        "name": "Uridine",
+        "description": "Nucleoside name for uracil + ribose.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Summary of base, nucleoside, and nucleotide names",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Uracil | Ribose | Uridine | Uridine monophosphate (UMP)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:utp",
+      "entity_name": "UTP",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:utp",
+        "name": "UTP",
+        "description": "Pyrimidine ribonucleoside triphosphate; described as linked with CTP synthesis.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "UTP and CTP synthesis are closely linked",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "UTP and CTP synthesis are closely linked"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "concept:uv-absorbance-260nm",
+      "entity_name": "UV absorbance at 260 nm",
+      "entity_type": "Concept",
+      "data": {
+        "id": "concept:uv-absorbance-260nm",
+        "name": "UV absorbance at 260 nm",
+        "description": "Property of nucleotide bases used for quantification and purity analysis of nucleic acids (NanoDrop).",
+        "aliases": [
+          "Absorb UV light at 260 nm"
+        ],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleotide bases absorb UV light at 260 nm",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Nucleotide bases absorb UV light at 260 nm\n\n\u2022 Useful for quantification and analysis of purity for nucleic acids (NanoDrop)"
+          }
+        ],
+        "domain": null,
+        "difficulty_level": null,
+        "field": null,
+        "prerequisites": [],
+        "prerequisite_of": [],
+        "related_theories": [],
+        "related_methods": []
+      }
+    },
+    {
+      "entity_id": "method:aspartate-transcarbamoylase",
+      "entity_name": "Aspartate transcarbamoylase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:aspartate-transcarbamoylase",
+        "name": "Aspartate transcarbamoylase",
+        "description": "Enzyme in pyrimidine synthesis stated to be inhibited by CTP (feedback inhibition); also labeled as a committed step context on the slide.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Feedback inhibition is an important regulator of nucleotide synthesis",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Feedback inhibition is an important regulator of nucleotide \nsynthesis\n\nPurines\n\nPyrimidines\n\nCommitted \nStep!\n\nAspartate transcarbamoylase is inhibited \nby CTP"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:cytidylate-kinase",
+      "entity_name": "Cytidylate kinase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:cytidylate-kinase",
+        "name": "Cytidylate kinase",
+        "description": "Enzyme shown phosphorylating CMP to CDP (with ATP) in the dCTP formation pathway.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Making dCTP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Making dCTP\n\nCMP + ATP\n\nADP + CDP\n...\ncytidylate\nkinase"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:dutpase",
+      "entity_name": "dUTPase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:dutpase",
+        "name": "dUTPase",
+        "description": "Enzyme shown acting to prevent accumulation of dUTP (diagram indicates dUTPase leading to dUMP).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "We cannot allow dUTP to accumulate in the cell",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "We cannot allow dUTP to accumulate in the cell\n...\ndUTPase\n\nUTP\n\ndUMP"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:nanodrop",
+      "entity_name": "NanoDrop",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:nanodrop",
+        "name": "NanoDrop",
+        "description": "Instrument/method mentioned as useful for quantification and analysis of nucleic acid purity using UV absorbance.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Nucleotide bases absorb UV light at 260 nm",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Useful for quantification and analysis of purity for nucleic acids (NanoDrop)"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:nucleoside-diphosphate-kinase",
+      "entity_name": "Nucleoside diphosphate kinase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:nucleoside-diphosphate-kinase",
+        "name": "Nucleoside diphosphate kinase",
+        "description": "Enzyme shown in pathways converting (d)NDP to (d)NTP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part IV: Creating triphosphates and deoxy triphosphates",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "ribonucleotide \nreductase\n\nnucleoside \ndiphosphate \nkinase\n\nNTP"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:real-time-polling",
+      "entity_name": "Real-time polling",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:real-time-polling",
+        "name": "Real-time polling",
+        "description": "In-lecture polling used for thought exercises and comprehension checks; requires a cell phone with camera and internet.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 W26 Syllabus (Chik)",
+            "section_title": "Technology",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction",
+            "raw_text": "This course will use real-time polling during lectures for thought exercises and comprehension checks."
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:ribonucleotide-reductase",
+      "entity_name": "Ribonucleotide reductase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:ribonucleotide-reductase",
+        "name": "Ribonucleotide reductase",
+        "description": "Enzyme that converts ribonucleoside diphosphates (NDP) to deoxyribonucleoside diphosphates (dNDP); described as a heterotetramer and as ensuring a balanced pool of dNTPs.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "Part IV: Creating triphosphates and deoxy triphosphates / Ribonucleotide reductase",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "Deoxynucleotides can only \nbe formed from \nribonucleoside diphosphates\n...\n+ ATP\nribonucleotide \nreductase\n...\nRibonucleotide reductase is a heterotetramer\n\nNDP                      dNDP\n\nRibonucleotide reductase ensures that we have balanced \npool of dNTPs"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:thymidylate-synthase",
+      "entity_name": "Thymidylate synthase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:thymidylate-synthase",
+        "name": "Thymidylate synthase",
+        "description": "Enzyme synthesizing dTMP from dUMP.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "We cannot allow dUTP to accumulate in the cell / dTMP is synthesized from dUMP",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "thymidylate\nsynthase\n\ndTMP\n\n...\n\ndTMP is synthesized from dUMP"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "method:uridylate-kinase",
+      "entity_name": "Uridylate kinase",
+      "entity_type": "Method",
+      "data": {
+        "id": "method:uridylate-kinase",
+        "name": "Uridylate kinase",
+        "description": "Enzyme shown phosphorylating UMP to UDP (with ATP).",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "Nucleotide Biosynthesis (slides text provided by user)",
+            "section_title": "We cannot allow dUTP to accumulate in the cell",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_provided_text",
+            "raw_text": "UMP + ATP\n\nADP + UDP\n...\nuridylate\nkinase"
+          }
+        ],
+        "domain": null,
+        "inputs": [],
+        "outputs": [],
+        "equipment": [],
+        "related_concepts": []
+      }
+    },
+    {
+      "entity_id": "person:jennifer-chik",
+      "entity_name": "Dr. Jennifer Chik",
+      "entity_type": "Person",
+      "data": {
+        "id": "person:jennifer-chik",
+        "name": "Dr. Jennifer Chik",
+        "description": "Instructor for CHEM 373.",
+        "aliases": [],
+        "sources": [
+          {
+            "source_document": "CHEM 373 course handout/slides (provided text)",
+            "section_title": "Welcome to CHEM 373!",
+            "page_number": null,
+            "extraction_timestamp": "2026-02-22T00:00:00Z",
+            "extraction_method": "manual_extraction_from_user_text",
+            "raw_text": "Welcome to CHEM 373!\n\nDr. Jennifer Chik\njchik@calpoly.edu"
+          }
+        ],
+        "birth_year": null,
+        "death_year": null,
+        "field": null,
+        "affiliation": null,
+        "notable_contributions": []
+      }
+    }
+  ],
+  "total": 159,
+  "limit": 1000,
+  "offset": 0
+}
